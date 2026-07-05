@@ -2,9 +2,9 @@
 
 Vous êtes acctuellement sur le repository regroupant l'ensemble des projets openclassroons réalisés lors de la formation Openclassrooms Data Analyst.
 
----
-
+----------------------------------------------------------------------------------------------------------------------------------
 ## Compétences - Soft skills développées
+----------------------------------------------------------------------------------------------------------------------------------
 
 * Analyse de ses compétences
 * Point sur ses axes d'amélioration
@@ -14,9 +14,10 @@ Vous êtes acctuellement sur le repository regroupant l'ensemble des projets ope
 * Simplifier le techniques pour faciliter la compréhension des utilisateurs
 * Timer et anticiper les ressources nécéssaires pour le projet
 
----
 
+----------------------------------------------------------------------------------------------------------------------------------
 ## Compétences - Hard skills développées
+----------------------------------------------------------------------------------------------------------------------------------
 
 * Auto-évaluation
 * Tableaux croisés dynamique et formules
@@ -33,9 +34,9 @@ Vous êtes acctuellement sur le repository regroupant l'ensemble des projets ope
 * Statistiques descriptives, uni, bi et multivariées
 * Modèles statistiques
 
----
-
+----------------------------------------------------------------------------------------------------------------------------------
 ## Projets suivis et réalisés pendant la formation
+----------------------------------------------------------------------------------------------------------------------------------
 
 * Projet 1 Prenez en main votre formation de Data Analyst
 * Projet 2 Faites une analyse de ventes pour un e-commerce
